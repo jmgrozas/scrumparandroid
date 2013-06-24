@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">ScrumparaAndroid!</string>
+    <string name="app_name">Scrum Parandroid</string>
+    <string name="about">About</string>
+    <string name="about_title">ScrumParandroid</string>
+    <string name="about_text">Scrum cards for agile development. 
+	    This application offers one of the most important tools of agile methodologies for developers.
+	    Design by L.Calvo, J.Fernández, development by J. Manuel García Rozas jmgrozas@paradigmatecnologico.com for <b>Paradigma Tecnologico</b>.
+    </string>
+</resources>
+
